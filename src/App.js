@@ -105,20 +105,20 @@ function App() {
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
-    SCAN_LINK: "https://rinkeby.etherscan.io/token/0x5dac1dffcf8fe90ceced1cc0a24e62bcaff124ea",
+    SCAN_LINK: "https://etherscan.io/token/0xD860EE1DdbB19837D7fb384662045413002b0c46",
     NETWORK: {
-      NAME: "Rinkeby",
-      SYMBOL: "Ethereum",
+      NAME: "Ethereum",
+      SYMBOL: "ETH",
       ID: 4,
     },
     NFT_NAME: "CryptoDoodez",
     SYMBOL: "DOODEZ",
-    MAX_SUPPLY: 2500,
+    MAX_SUPPLY: 2350,
     WEI_COST: 0,
     DISPLAY_COST: 0,
     GAS_LIMIT: 285000,
     MARKETPLACE: "Opensea",
-    MARKETPLACE_LINK: "https://testnets.opensea.io/collection/cryptodoodez",
+    MARKETPLACE_LINK: "https://opensea.io/collection/cryptodoodez",
     SHOW_BACKGROUND: false,
   });
 
