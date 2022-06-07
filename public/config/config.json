@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5dAc1dFFcf8Fe90CeceD1CC0A24e62bcAFF124ea",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x5dac1dffcf8fe90ceced1cc0a24e62bcaff124ea",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Ethereum",
+    "ID": 4
+  },
+  "NFT_NAME": "CryptoDoodez",
+  "SYMBOL": "DOODEZ",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptodoodez",
+  "SHOW_BACKGROUND": true
+}
