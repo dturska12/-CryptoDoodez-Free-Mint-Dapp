@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x74fc2C01f91D5637BD92cDcB095b31A68ac83756",
-  "SCAN_LINK": "https://etherscan.io/token/0x74fc2C01f91D5637BD92cDcB095b31A68ac83756",
+  "CONTRACT_ADDRESS": "0x5a3d6F44E354c20ccBa3Bc5BD3285cf6671138Bb",
+  "SCAN_LINK": "https://phoenixplorer.com/address/0x5a3d6F44E354c20ccBa3Bc5BD3285cf6671138Bb",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Phoenix",
+    "SYMBOL": "PHX",
+    "ID": 13381
   },
   "NFT_NAME": "CryptoDoodez",
   "SYMBOL": "DOODEZ",
-  "MAX_SUPPLY": 2350,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0.00,
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 65,
+  "DISPLAY_COST": 65,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cryptodoodez",
