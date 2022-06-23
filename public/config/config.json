@@ -1,16 +1,16 @@
 {
   "CONTRACT_ADDRESS": "0xadc20acf6c4bFC9dF23DF57Acc4149C713597680",
-  "SCAN_LINK": "https://phoenixplorer.com/address/0x5a3d6F44E354c20ccBa3Bc5BD3285cf6671138Bb",
+  "SCAN_LINK": "https://phoenixplorer.com/address/0xadc20acf6c4bFC9dF23DF57Acc4149C713597680",
   "NETWORK": {
     "NAME": "Phoenix",
     "SYMBOL": "PHX",
     "ID": 13381
   },
-  "NFT_NAME": "CryptoDoodez",
-  "SYMBOL": "DOODEZ",
+  "NFT_NAME": "CryptoDoodez Cash Raffle!",
+  "SYMBOL": "CDC",
   "MAX_SUPPLY": 500,
-  "WEI_COST": 65,
-  "DISPLAY_COST": 65,
+  "WEI_COST": 75000000000000000000,
+  "DISPLAY_COST": 75,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cryptodoodez",
