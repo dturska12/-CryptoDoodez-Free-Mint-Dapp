@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xadc20acf6c4bFC9dF23DF57Acc4149C713597680",
-  "SCAN_LINK": "https://phoenixplorer.com/address/0xadc20acf6c4bFC9dF23DF57Acc4149C713597680",
+  "CONTRACT_ADDRESS": "0x92dC67BbBDfBAc0482dfeD9636657caf4587D56F",
+  "SCAN_LINK": "https://phoenixplorer.com/address/0x92dC67BbBDfBAc0482dfeD9636657caf4587D56F",
   "NETWORK": {
     "NAME": "Phoenix",
     "SYMBOL": "PHX",
@@ -12,7 +12,7 @@
   "WEI_COST": 75000000000000000000,
   "DISPLAY_COST": 75,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cryptodoodez",
   "SHOW_BACKGROUND": true
 }
